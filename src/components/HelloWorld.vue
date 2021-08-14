@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <b-img src="https://placekitten.com/g/200/200" rounded="circle" alt="Kitten" style="background-size:cover;"></b-img>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
