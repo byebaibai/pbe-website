@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import Flipbook from 'flipbook-vue'
+import Flipbook from 'ytsj-flipbook-vue'
 import { BIconChevronCompactLeft, BIconChevronCompactRight, BIconBlank} from 'bootstrap-vue'
 // import Vue from 'vue'
 export default {
